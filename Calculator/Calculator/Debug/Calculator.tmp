@@ -1,0 +1,98 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\LED.asm</FILE>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\delay.asm</FILE>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\printString.asm</FILE>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\getValue.asm</FILE>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\printValue.asm</FILE>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\bi2dec.asm</FILE>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\status.asm</FILE>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\print_string.asm</FILE>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\clear_screen.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\Debug\Calculator.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Calculator.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Calculator.map</FILE>
+  <FILE>Calculator.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <intermediate><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>79</LINE></intermediate>
+  <final><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>80</LINE></final>
+  <decnum><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>81</LINE></decnum>
+  <status><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>82</LINE></status>
+  <ovr><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>83</LINE></ovr>
+  <RESET><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>92</LINE></RESET>
+  <lcd_command><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\LED.asm</FILE><LINE>2</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\LED.asm</FILE><LINE>32</LINE></lcd_wait>
+  <sleep_5ms><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\delay.asm</FILE><LINE>17</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\delay.asm</FILE><LINE>4</LINE></sleep_1ms>
+  <intialize><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>133</LINE></intialize>
+  <lcd_data><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\LED.asm</FILE><LINE>15</LINE></lcd_data>
+  <lcd_wait_loop><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\LED.asm</FILE><LINE>38</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\delay.asm</FILE><LINE>10</LINE></delayloop_1ms>
+  <sleep_25ms><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\delay.asm</FILE><LINE>25</LINE></sleep_25ms>
+  <print_string><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\printString.asm</FILE><LINE>7</LINE></print_string>
+  <loop><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\printString.asm</FILE><LINE>18</LINE></loop>
+  <endst><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\printString.asm</FILE><LINE>32</LINE></endst>
+  <cont><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\printString.asm</FILE><LINE>28</LINE></cont>
+  <get_value><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\getValue.asm</FILE><LINE>15</LINE></get_value>
+  <convert2><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\bi2dec.asm</FILE><LINE>8</LINE></convert2>
+  <Bin2Bcd><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\bi2dec.asm</FILE><LINE>42</LINE></Bin2Bcd>
+  <Bin2Digit><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\bi2dec.asm</FILE><LINE>78</LINE></Bin2Digit>
+  <Subtract><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\bi2dec.asm</FILE><LINE>80</LINE></Subtract>
+  <store><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\bi2dec.asm</FILE><LINE>90</LINE></store>
+  <print_value><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\printValue.asm</FILE><LINE>9</LINE></print_value>
+  <decnumL><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\printValue.asm</FILE><LINE>28</LINE></decnumL>
+  <decnumE><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\printValue.asm</FILE><LINE>37</LINE></decnumE>
+  <print_string2><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\print_string.asm</FILE><LINE>7</LINE></print_string2>
+  <ovrF><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\print_string.asm</FILE><LINE>18</LINE></ovrF>
+  <endOVR><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\print_string.asm</FILE><LINE>32</LINE></endOVR>
+  <contOVR><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\print_string.asm</FILE><LINE>28</LINE></contOVR>
+  <statusH><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\status.asm</FILE><LINE>13</LINE></statusH>
+  <subtraction2><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\status.asm</FILE><LINE>63</LINE></subtraction2>
+  <addition2><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\status.asm</FILE><LINE>90</LINE></addition2>
+  <move><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\status.asm</FILE><LINE>40</LINE></move>
+  <overflow><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\status.asm</FILE><LINE>114</LINE></overflow>
+  <continue1><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\status.asm</FILE><LINE>55</LINE></continue1>
+  <ending><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\status.asm</FILE><LINE>120</LINE></ending>
+  <continue3><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\status.asm</FILE><LINE>105</LINE></continue3>
+  <clear_screen><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\clear_screen.asm</FILE><LINE>7</LINE></clear_screen>
+  <ovr_flow><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>141</LINE></ovr_flow>
+  <error_msg><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>142</LINE></error_msg>
+  <main><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>144</LINE></main>
+  <colloop><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>149</LINE></colloop>
+  <delay><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>154</LINE></delay>
+  <nextcol><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>180</LINE></nextcol>
+  <rowloop><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>165</LINE></rowloop>
+  <skipconv><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>174</LINE></skipconv>
+  <convert><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>192</LINE></convert>
+  <cont1><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>205</LINE></cont1>
+  <letters><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>230</LINE></letters>
+  <symbols><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>278</LINE></symbols>
+  <convert_end><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>310</LINE></convert_end>
+  <ovrflow2><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>304</LINE></ovrflow2>
+  <subtraction><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>259</LINE></subtraction>
+  <addition><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>263</LINE></addition>
+  <equals><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>267</LINE></equals>
+  <d><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>273</LINE></d>
+  <end><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>327</LINE></end>
+  <star><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>291</LINE></star>
+  <zero><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>298</LINE></zero>
+  <cont2><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\Calculator\Calculator\main.asm</FILE><LINE>323</LINE></cont2>
+ </LABELS>
+</ASSEMBLER_INFO>

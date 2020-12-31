@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\Debug\clock2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>clock2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>clock2.map</FILE>
+  <FILE>clock2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MinsCounter><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>38</LINE></MinsCounter>
+  <SecondCounter><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>39</LINE></SecondCounter>
+  <TempCounter><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>40</LINE></TempCounter>
+  <RESET><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>58</LINE></RESET>
+  <DEFAULT><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>55</LINE></DEFAULT>
+  <Timer0OVF><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>72</LINE></Timer0OVF>
+  <main><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>153</LINE></main>
+  <NotSecond><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>136</LINE></NotSecond>
+  <continue><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>107</LINE></continue>
+  <lcd_command><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>197</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>227</LINE></lcd_wait>
+  <lcd_data><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>210</LINE></lcd_data>
+  <EndIF><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>140</LINE></EndIF>
+  <sleep_5ms><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>267</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>254</LINE></sleep_1ms>
+  <stop><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>180</LINE></stop>
+  <lcd_wait_loop><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>234</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>C:\Users\lakew\Documents\Atmel Studio\7.0\clock2\clock2\main.asm</FILE><LINE>260</LINE></delayloop_1ms>
+ </LABELS>
+</ASSEMBLER_INFO>
